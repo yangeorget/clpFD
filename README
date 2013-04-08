@@ -1,0 +1,31 @@
+% Francois FAGES (fages@dmi.ens.fr)
+% 13th June 96
+%
+%
+% This directory contains a prototype implementation of
+% Constraint Logic Programming over finite domains CLP(FD),
+% on top of Prolog (currently Sicstus Prolog version 3 or 2).
+% 
+% This system has been realized only to serve *teaching purposes*,
+% as a companion to the book of Francois FAGES,
+% "Programmation Logique par Contraintes",
+% Collection Cours de l'Ecole Polytechnique,
+% Ellipse, Paris. 1996.
+% 
+% The source code is freely distributed without any warranty of any kind.
+% Bug reports can be sent to fages@dmi.ens.fr, but there is no
+% warranty that they will be fixed in new releases,
+% nor that the system will be ported on top of other systems than
+% Sicstus Prolog.
+% 
+% The system has been designed for a pedagogical purpose only.
+% Much more efficient CLP(FD) systems are available on the market,
+% and it is recommended to use these other systems for more
+% advanced experimental works.
+% 
+% In order to install the system, just load the file make_clpFD.pl
+% under Sicstus Prolog.
+% 
+% Not all the CLP(FD) predicates described in the appendix of the book
+% have been implemented yet, a good exercise is to complete that library.
+
